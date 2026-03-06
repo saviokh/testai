@@ -6,7 +6,8 @@ function App() {
 
       <div className="bird-map-container">
         <iframe
-          src="https://hixai.com/"
+        src="https://ernie.baidu.com/"
+        //  src="https://hixai.com/"
           title="AI Assistant"
           className="bird-map-iframe"
           allowFullScreen
